@@ -1,4 +1,3 @@
-## 📃 Creating new scripts... 
 
 <div align="center">
   <a href="https://github.com/yFnLK">
@@ -12,3 +11,5 @@
  	<a href="https://steamcommunity.com/id/fytnl/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </a>
+
+## 📃 Creating new scripts... 
