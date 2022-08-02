@@ -1,10 +1,10 @@
 ## 📃 Creating new scripts...
 
-<div align="center">
-  <a href="https://github.com/yFnLK">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yFnLK&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/
 <div align="side">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yFnLK&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/yFnLK">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yFnLK&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/
+<div align="side">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yFnLK&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ##
